@@ -2,7 +2,6 @@
 <p>Configuration for VLESS tunnel on Cloudflare Worker</p>
 <p>Also, you can <a href='https://note.al1almasi.ir/easy-vless-config-with-cf-worker/'>read this in my personal notebook</a>.</p>
 <div align='right'>
-<p>.</p>
 </div>
 <h2>How to use this?</h2>
 <p>It's Super easy (you don't need any server). Just create a CF Worker and then copy & paste all of the <a href="https://raw.githubusercontent.com/AliAlmasi/vless-cf-worker/main/worker.js">worker.js file's content</a> as the worker's configuration, then do all of these things:</p>
