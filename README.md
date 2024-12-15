@@ -20,4 +20,3 @@
 <p>Now you're all done. Test your VLESS configuration.</p>
 <div align="center"><img src="./screenshots/vless-config.jpg"></div>
 <hr>
-<p>Read more on <a href='https://note.al1almasi.ir'>note.al1almasi.ir</a></p>
