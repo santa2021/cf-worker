@@ -1,6 +1,5 @@
 <h1>VLESS CF Worker</h1>
 <p>Configuration for VLESS tunnel on Cloudflare Worker</p>
-<p>Also, you can <a href='https://note.al1almasi.ir/easy-vless-config-with-cf-worker/'>read this in my personal notebook</a>.</p>
 <div align='right'>
 </div>
 <h2>How to use this?</h2>
